@@ -6,6 +6,13 @@ Displays restaurants with name, logo, rating and reviews.
 We can add or delete comments (or reviews).
 We can add more restaurants to the list.
 
+Restaurant:
+Name (string)
+City (string)
+State (string)
+Cuisines (string)
+Pic (string)
+
 
 |   METHOD:             |       PATH:                           |       PURPOSE:                                            |
 |-----------------------|---------------------------------------|-----------------------------------------------------------|
