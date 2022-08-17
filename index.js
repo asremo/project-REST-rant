@@ -16,8 +16,7 @@ app.get('/', (req, res) => {
 
 // 404 page route
 app.get('*', (req, res) => {
-    res.status(404).send('<h1>404 Page</h1>') 
-    //chaining = calling multiple methods together on the same line
+    res.render('error404')
 })
 
 app.listen(process.env.PORT)
