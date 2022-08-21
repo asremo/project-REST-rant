@@ -2,6 +2,10 @@ h1 {
     text-align: center;
     color: cornflowerblue;
 }
+
+h2 {
+    color: skyblue;
+}
   
 p {
     text-align: center;
@@ -13,12 +17,12 @@ img {
     max-height: 650px;
 }
 
-.center {
+/* .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%; 
-}
+} */
 
 nav {
     background-color: cornflowerblue;
